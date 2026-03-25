@@ -22,3 +22,7 @@ venv/
 memory/
 backup/
 logs/research_briefs/
+
+# Internal automation — contains personal context
+automation/generate_handoff.py
+automation/session_handoff.md

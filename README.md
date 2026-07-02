@@ -66,7 +66,7 @@ Each entry is stored as a vector embedding, so Claude can find related memories 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Jdubnwa/claude-continuity.git
+git clone https://github.com/johnmwhitman/claude-continuity.git
 cd claude-continuity
 
 # 2. Install dependencies
